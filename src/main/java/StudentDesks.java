@@ -8,10 +8,10 @@ class StudentDesks {
 
         //Reads ints from user
         int userInt1= scanner.nextInt();
-        int userInt2= scanner.nextInt();
-        int userInt3=scanner.nextInt();
         System.out.println("Number of students in classroom 1:");
-        System.out.println("Number of students in classroom 2:");
+        int userInt2= scanner.nextInt();
+         System.out.println("Number of students in classroom 2:");
+        int userInt3=scanner.nextInt();
         System.out.println("Number of students in classroom 3: ");
 
 
