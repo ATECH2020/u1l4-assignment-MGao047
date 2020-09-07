@@ -1,4 +1,4 @@
-import java.util.Scanner;
+0import java.util.Scanner;
 
 class SecondsPastMidnight {
     public static void main(String[] args) {
