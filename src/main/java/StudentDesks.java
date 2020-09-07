@@ -7,9 +7,9 @@ class StudentDesks {
         Scanner scanner = new Scanner(System.in);
 
         //Reads ints from user
-        int userint1= scanner.nextInt();
-        int userint2= scanner.nextInt();
-        int userint3=scanner.nextInt();
+        int userInt1= scanner.nextInt();
+        int userInt2= scanner.nextInt();
+        int userInt3=scanner.nextInt();
         System.out.println("Number of students in classroom 1:");
         System.out.println("Number of students in classroom 2:");
         System.out.println("Number of students in classroom 3: ");
